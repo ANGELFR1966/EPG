@@ -1,0 +1,188 @@
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+#EXTINF:-1 group-title="Películas",AMC 
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321104.ts
+#EXTINF:-1 group-title="Películas",AMC BREAK
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321100.ts
+#EXTINF:-1 group-title="Películas",AMC CRIME
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321101.ts
+#EXTINF:-1 group-title="Películas",AXN
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321120.ts
+#EXTINF:-1 group-title="Películas",AXN Movies
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321117.ts
+#EXTINF:-1 group-title="Películas",BE MAD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321127.ts
+#EXTINF:-1 group-title="Películas",Calle 13 HD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321139.ts
+#EXTINF:-1,CANAL COCINA
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321147.ts
+#EXTINF:-1 group-title="Películas",Canal Hollywood
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321266.ts
+#EXTINF:-1 group-title="Películas",COMEDY CENTRAL
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321183.ts
+#EXTINF:-1 group-title="Películas",COSMO
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321187.ts
+#EXTINF:-1 group-title="Películas",DARK
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321203.ts
+#EXTINF:-1,Decasa
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321153.ts
+#EXTINF:-1,DIVINITY
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321223.ts
+#EXTINF:-1,DISCOVERY
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321209.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321216.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321218.ts
+#EXTINF:-1 group-title="Películas",DREAMWORKS
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321229.ts
+#EXTINF:-1 group-title="Películas",ENERGY
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321238.ts
+#EXTINF:-1 group-title="Películas",Factoría de Ficción
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321246.ts
+#EXTINF:-1 group-title="Películas" tvg-name="FOX",FOX
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321252.ts
+#EXTINF:-1 group-title="Películas" tvg-name="HBO Latin America HDTV (East) (HBOHD) [148]",HBO
+http://177.53.153.21:8001/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Películas" audio-track="spa" tvg-name="HBO 2 (Panamerican) (HBO 2) [158]",HBO 2
+http://177.53.153.21:8001/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Películas" audio-track="spa" tvg-name="Canal HBO Pop",HBO Pop
+http://177.53.153.21:8001/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Películas" audio-track="spa" tvg-name="HBO Xtreme Panamericano (HBOXTR) [164]",HBO Xtreme
+http://177.53.153.21:8001/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Películas" audio-track="spa" tvg-name="HBO Family (Spanish) (HBOFAM) [162]",HBO Family
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/149640
+#EXTINF:-1 group-title="Películas" audio-track="spa" tvg-name="HBO Plus (Panamericano) (HBO+) [160]",HBO +
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/149638
+#EXTINF:-1,Historia
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321156.ts
+#EXTINF:-1,La Resistencia 24H
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321286.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321368.ts
+#EXTINF:-1 group-title="Películas",NEOX
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321374.ts
+#EXTINF:-1,NICK JR
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321377.ts
+#EXTINF:-1,NICKELODEON
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321381.ts
+#EXTINF:-1 group-title="Películas",NOVA
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321383.ts
+#EXTINF:-1 group-title="Películas",M+ Acción
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321307.ts
+#EXTINF:-1 group-title="Películas",M+ Cine Español
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321312.ts
+#EXTINF:-1 group-title="Películas",M+ Clásicos
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321316.ts
+#EXTINF:-1 group-title="Películas",M+ COMEDIA
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321319.ts
+#EXTINF:-1 group-title="Películas",M+ DRAMA
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321333.ts
+#EXTINF:-1 group-title="Películas",M+ Originales
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321070.ts
+#EXTINF:-1 group-title="Películas",M+ SERIES
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321349.ts
+#EXTINF:-1 group-title="Películas",M+ Suspense HD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321339.ts
+#EXTINF:-1 group-title="Películas",M+ Vamos HD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321073.ts
+#EXTINF:-1 group-title="Películas",ODISEA
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321390.ts
+#EXTINF:-1 group-title="Películas",PARAMOUNT NETWORK
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321392.ts
+
+#EXTINF:-1 channel-id="pluto-645a30cbe94c380008059aae" tvg-id="645a30cbe94c380008059aae" tvg-chno="44" tvg-logo="https://images.pluto.tv/channels/645a30cbe94c380008059aae/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Siesta
+https://i.mjh.nz/PlutoTV/645a30cbe94c380008059aae-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645a309c5a0cd5000873f609" tvg-id="645a309c5a0cd5000873f609" tvg-chno="46" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="Pluto",Pluto TV Catástrofes
+https://i.mjh.nz/PlutoTV/645a309c5a0cd5000873f609-alt.m3u8
+##EXTINF:-1 channel-id="pluto-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-chno="200" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Estelar
+https://i.mjh.nz/PlutoTV/5f1ac1f1b66c76000790ef27-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-chno="201" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Acción
+https://i.mjh.nz/PlutoTV/5f1ac2591dd8880007bb7d6d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6267d4d1fb694f0007a6af0e" tvg-id="6267d4d1fb694f0007a6af0e" tvg-chno="202" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Horror
+https://i.mjh.nz/PlutoTV/6267d4d1fb694f0007a6af0e-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f6a38eaa5b68b0007a00e7a" tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-chno="203" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Sci-Fi
+https://i.mjh.nz/PlutoTV/5f6a38eaa5b68b0007a00e7a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac8099c49f600076579b2" tvg-id="5f1ac8099c49f600076579b2" tvg-chno="204" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Comedia
+https://i.mjh.nz/PlutoTV/5f1ac8099c49f600076579b2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac9a2d3611d0007a844bb" tvg-id="5f1ac9a2d3611d0007a844bb" tvg-chno="206" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Romántico
+https://i.mjh.nz/PlutoTV/5f1ac9a2d3611d0007a844bb-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac8a87cd38d000745d7cf" tvg-id="5f1ac8a87cd38d000745d7cf" tvg-chno="207" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Thrillers
+https://i.mjh.nz/PlutoTV/5f1ac8a87cd38d000745d7cf-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac947dcd00d0007937c08" tvg-id="5f1ac947dcd00d0007937c08" tvg-chno="208" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Drama
+https://i.mjh.nz/PlutoTV/5f1ac947dcd00d0007937c08-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-chno="209" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine de autor
+https://i.mjh.nz/PlutoTV/60cc807324d60a0007708dc8-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61373bb45168fe000773eecd" tvg-id="61373bb45168fe000773eecd" tvg-chno="210" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Clásico
+https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Películas",Rakuten Action Movies
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-ESBC27000062Q" tvg-id="ESBC27000062Q" tvg-chno="4982" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000062Q_20221109T010936SQUARE.png_20221109010937.png" group-title="Películas" , Cine Español - Rakuten TV
+https://1306133dcf0640fe9a264e1537bb9782.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_Local/playlist.m3u8?ads.wurl_channel=794&ads.wurl_name=Local&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Películas",Rakuten Comedy Movies
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-ESBC2700010F6" tvg-id="ESBC2700010F6" tvg-chno="4162" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20230619T082509SQUARE.png_20230619082509.png" group-title="Drama" , Crimen - Rakuten TV
+https://135e6879da0440a6bb38a78a62dea563.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_Crimen/playlist.m3u8?ads.wurl_channel=1493&ads.wurl_name=Crimen&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="RakutenTVDramaMoviesSpain.es" tvg-logo="https://i.imgur.com/NDEJNHr.png" group-title="Películas",Rakuten Drama
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesSpain.es" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Películas",Rakuten Family
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-ESBC27000079V" tvg-id="ESBC27000079V" tvg-chno="4983" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000079V_20221109T010947SQUARE.png_20221109010947.png" group-title="Películas" , Películas Románticas - Rakuten TV
+https://809319b2b7064d85940128773157bd6f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_RakutenRomance/playlist.m3u8?ads.wurl_channel=890&ads.wurl_name=RakutenRomance&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBC2700005EE" tvg-id="ESBC2700005EE" tvg-chno="4994" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png" group-title="Películas" , Películas Top - Rakuten TV
+https://bb761d879d454687ae5b1e58d797cb1b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_TopFree/playlist.m3u8?ads.wurl_channel=840&ads.wurl_name=TopFree&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="RakutenTVSpotlightSpain.es" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Películas",Rakuten Spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC400001QQ" tvg-id="ESBC400001QQ" tvg-chno="4975" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20230412T042443SQUARE.png_20230412042443.png" group-title="Películas" , Runtime
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBD80000288" tvg-id="ESBD80000288" tvg-chno="4976" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20230712T021347SQUARE.png_20230712021348.png" group-title="Películas" , Runtime Acción
+https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBD8000033W" tvg-id="ESBD8000033W" tvg-chno="4977" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20230426T015713SQUARE.png_20230426015714.png" group-title="Películas" , Runtime Comedia
+https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fgcph1khrr3ct/rc_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBD800004KU" tvg-id="ESBD800004KU" tvg-chno="4979" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20230308T021514SQUARE.png_20230308021515.png" group-title="Películas" , Runtime Romance
+https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBD800001RJ" tvg-id="ESBD800001RJ" tvg-chno="4980" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20230308T021500SQUARE.png_20230308021500.png" group-title="Películas" , Cine Friki
+https://dztce7fuvmwz4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tgvv11385xjtm/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+#EXTINF:-1 group-title="Películas",SYFY
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321422.ts
+#EXTINF:-1 group-title="Películas",TCM
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321425.ts
+#EXTINF:-1 group-title="Películas",Warner TV HD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321443.ts
+#EXTINF:-1,XTRM
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321477.ts
+#EXTINF:-1 group-title="Deportes",DAZN 1
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228385.ts
+#EXTINF:-1 group-title="Deportes",DAZN 2
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228388.ts
+#EXTINF:-1 group-title="Deportes",DAZN 3
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228394.ts
+#EXTINF:-1 group-title="Deportes",DAZN 4
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228398.ts
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/149630
+#EXTINF:-1 group-title="Deportes",EUROSPORT 1
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290348.ts
+#EXTINF:-1 group-title="Deportes",EUROSPORT 2
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290351.ts
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 2
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/149636
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 3
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/149635
+#EXTINF:-1 group-title="Deportes",GOL PLAY
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321261.ts
+#EXTINF:-1 group-title="Deportes",M+ LaLiga TV 
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165392.ts
+#EXTINF:-1 group-title="Deportes",M+ LaLiga TV2
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165398.ts
+#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165358.ts
+#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 2 UHD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165365.ts
+#EXTINF:-1 group-title="Deportes",TNT SPORTS
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/149627
+
+##EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
