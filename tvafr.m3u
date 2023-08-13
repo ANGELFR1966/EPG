@@ -1,5 +1,6 @@
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 #EXTM3U x-url-tvg="https://i.mjh.nz/PlutoTV/es.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Películas" ,AMC 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321104.ts
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-break-us.svg" group-title="Películas" ,AMC BREAK
@@ -91,30 +92,31 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321390.ts
 #EXTINF:-1 group-title="Películas",Paramount Network
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321392.ts
 
-#EXTINF:-1 channel-id="pluto-645a30cbe94c380008059aae" tvg-id="645a30cbe94c380008059aae" tvg-logo="https://images.pluto.tv/channels/645a30cbe94c380008059aae/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Siesta
-https://i.mjh.nz/PlutoTV/645a30cbe94c380008059aae-alt.m3u8
 #EXTINF:-1 channel-id="pluto-645a309c5a0cd5000873f609" tvg-id="645a309c5a0cd5000873f609" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="Pluto",Pluto TV Catástrofes
 https://i.mjh.nz/PlutoTV/645a309c5a0cd5000873f609-alt.m3u8
-##EXTINF:-1 channel-id="pluto-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Estelar
-https://i.mjh.nz/PlutoTV/5f1ac1f1b66c76000790ef27-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Acción
 https://i.mjh.nz/PlutoTV/5f1ac2591dd8880007bb7d6d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Autor
+https://i.mjh.nz/PlutoTV/60cc807324d60a0007708dc8-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61373bb45168fe000773eecd" tvg-id="61373bb45168fe000773eecd" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Clásico
+https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac8099c49f600076579b2" tvg-id="5f1ac8099c49f600076579b2" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Comedia
+https://i.mjh.nz/PlutoTV/5f1ac8099c49f600076579b2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac947dcd00d0007937c08" tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Drama
+https://i.mjh.nz/PlutoTV/5f1ac947dcd00d0007937c08-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Estelar
+https://i.mjh.nz/PlutoTV/5f1ac1f1b66c76000790ef27-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac9a2d3611d0007a844bb" tvg-id="5f1ac9a2d3611d0007a844bb" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Romántico
+https://i.mjh.nz/PlutoTV/5f1ac9a2d3611d0007a844bb-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6267d4d1fb694f0007a6af0e" tvg-id="6267d4d1fb694f0007a6af0e" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Horror
 https://i.mjh.nz/PlutoTV/6267d4d1fb694f0007a6af0e-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f6a38eaa5b68b0007a00e7a" tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Sci-Fi
 https://i.mjh.nz/PlutoTV/5f6a38eaa5b68b0007a00e7a-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f1ac8099c49f600076579b2" tvg-id="5f1ac8099c49f600076579b2" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Comedia
-https://i.mjh.nz/PlutoTV/5f1ac8099c49f600076579b2-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f1ac9a2d3611d0007a844bb" tvg-id="5f1ac9a2d3611d0007a844bb" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Romántico
-https://i.mjh.nz/PlutoTV/5f1ac9a2d3611d0007a844bb-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645a30cbe94c380008059aae" tvg-id="645a30cbe94c380008059aae" tvg-logo="https://images.pluto.tv/channels/645a30cbe94c380008059aae/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Siesta
+https://i.mjh.nz/PlutoTV/645a30cbe94c380008059aae-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f1ac8a87cd38d000745d7cf" tvg-id="5f1ac8a87cd38d000745d7cf" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Thrillers
 https://i.mjh.nz/PlutoTV/5f1ac8a87cd38d000745d7cf-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f1ac947dcd00d0007937c08" tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Drama
-https://i.mjh.nz/PlutoTV/5f1ac947dcd00d0007937c08-alt.m3u8
-#EXTINF:-1 channel-id="pluto-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine de autor
-https://i.mjh.nz/PlutoTV/60cc807324d60a0007708dc8-alt.m3u8
-#EXTINF:-1 channel-id="pluto-61373bb45168fe000773eecd" tvg-id="61373bb45168fe000773eecd" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Pluto" group-title="Películas",Pluto TV Cine Clásico
-https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Películas",Rakuten Acción
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
@@ -186,4 +188,3 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165365.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Deportes",TNT SPORTS
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/149627
 
-##EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
