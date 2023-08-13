@@ -69,7 +69,7 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321381.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321383.ts
 #EXTINF:-1 group-title="Películas",M+ Acción
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321307.ts
-#EXTINF:-1 group-title="Películas",M+ Cine Español
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-cine-espanol-es.svg" group-title="Películas",M+ Cine Español
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321312.ts
 #EXTINF:-1 group-title="Películas",M+ Clásicos
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321316.ts
