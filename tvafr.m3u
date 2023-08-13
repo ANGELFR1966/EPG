@@ -1,6 +1,6 @@
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
-#EXTM3U x-url-tvg="https://i.mjh.nz/PlutoTV/es.xml.gz"
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
+#EXTM3U x-url-tvg="https://i.mjh.nz/PlutoTV/es.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml"
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Películas" ,AMC 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321104.ts
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-break-us.svg" group-title="Películas" ,AMC BREAK
