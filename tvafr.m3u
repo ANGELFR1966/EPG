@@ -49,7 +49,7 @@ http://177.53.153.21:8001/play/a03i/index.m3u8
 http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Películas" audio-track="spa" tvg-name="HBO Xtreme Panamericano (HBOXTR) [164]",HBO Xtreme
 http://177.53.153.21:8001/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Películas" audio-track="spa" tvg-name="HBO Family (Spanish) (HBOFAM) [162]",HBO Family
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_lam.png" group-title="Películas" audio-track="spa" tvg-name="HBO Family (Spanish) (HBOFAM) [162]",HBO Family
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/149640
 #EXTINF:-1 group-title="Películas" audio-track="spa" tvg-name="HBO Plus (Panamericano) (HBO+) [160]",HBO +
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/149638
