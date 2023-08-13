@@ -1,4 +1,5 @@
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+#EXTM3U x-url-tvg="https://i.mjh.nz/PlutoTV/es.xml.gz"
 #EXTINF:-1 group-title="Películas" tvg-logo="https://i.imgur.com/L1h6W5Q.png",AMC 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321104.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/calle-13-us-es.svg" group-title="Películas" ,AMC BREAK
@@ -45,7 +46,7 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321252.ts
 http://177.53.153.21:8001/play/a03b/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="Películas" audio-track="spa" tvg-name="HBO 2 (Panamerican) (HBO 2) [158]",HBO 2
 http://177.53.153.21:8001/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Películas" audio-track="spa" tvg-name="Canal HBO Pop",HBO Pop
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-pop-us.png" group-title="Películas" audio-track="spa" tvg-name="Canal HBO Pop",HBO Pop
 http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Películas" audio-track="spa" tvg-name="HBO Xtreme Panamericano (HBOXTR) [164]",HBO Xtreme
 http://177.53.153.21:8001/play/a04h/index.m3u8
@@ -180,7 +181,7 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165392.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165398.ts
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165358.ts
-#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 2 UHD
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="Deportes" tvg-name="M+ Liga de Campeones 2 UHD",M+ Liga de Campeones 2
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165365.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Deportes",TNT SPORTS
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/149627
