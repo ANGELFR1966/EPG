@@ -1,7 +1,7 @@
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
-#EXTINF:-1 group-title="Películas",AMC 
+#EXTINF:-1 group-title="Películas" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png ",AMC 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321104.ts
-#EXTINF:-1 group-title="Películas",AMC BREAK
+#EXTINF:-1 group-title="Películas" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/calle-13-us-es.svg",AMC BREAK
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321100.ts
 #EXTINF:-1 group-title="Películas",AMC CRIME
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321101.ts
