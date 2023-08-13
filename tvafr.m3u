@@ -41,9 +41,9 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321238.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321246.ts
 #EXTINF:-1 group-title="Películas" tvg-name="FOX",FOX
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321252.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Películas" tvg-name="HBO Latin America HDTV (East) (HBOHD) [148]",HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Películas" tvg-name="HBO Latin America HDTV (East) (HBOHD) [148]",HBO
 http://177.53.153.21:8001/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia /commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Películas" audio-track="spa" tvg-name="HBO 2 (Panamerican) (HBO 2) [158]",HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Películas" audio-track="spa" tvg-name="HBO 2 (Panamerican) (HBO 2) [158]",HBO 2
 http://177.53.153.21:8001/play/a03i/index.m3u8
 #EXTINF:-1 group-title="Películas" audio-track="spa" tvg-name="Canal HBO Pop",HBO Pop
 http://177.53.153.21:8001/play/a01y/index.m3u8
