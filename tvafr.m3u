@@ -79,6 +79,8 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321312.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321316.ts
 #EXTINF:-1 group-title="Películas",M+ Comedia
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321319.ts
+#EXTINF:-1,group-title="Películas",M+ Cine Documental
+http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29078
 #EXTINF:-1 group-title="Películas",M+ Drama
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321333.ts
 #EXTINF:-1 group-title="Películas",M+ Originales
@@ -153,7 +155,7 @@ https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321422.ts
 #EXTINF:-1 group-title="Películas",TCM
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321425.ts
-#EXTINF:-1 group-title="Películas",Warner TV HD
+#EXTINF:-1 group-title="Películas" tvg-name="Warner TV HD",TNT
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321443.ts
 #EXTINF:-1,XTRM
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321477.ts
