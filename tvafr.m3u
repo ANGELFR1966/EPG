@@ -1,0 +1,109 @@
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/793309fe6053dbfa22490494081384301d28c28b/PlutoTV/es.xml" 
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml"
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Películas" ,AMC 
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/16
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="Películas",AXN
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/19
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn-movies-us-pt.png" group-title="Películas",AXN Movies
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/20
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Películas" ,AMC 
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/41
+#EXTINF:-1,DISCOVERY
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/42
+#EXTINF:-1,DISCOVERY FAMILIA
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/45
+#EXTINF:-1,DISCOVERY H&H
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/46
+#EXTINF:-1,DISCOVERY KIDS
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/48
+#EXTINF:-1,DISCOVERY SCIENCE
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/280
+#EXTINF:-1,DISCOVERY THEATER
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/50
+#EXTINF:-1,DISCOVERY TLC
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/51
+#EXTINF:-1,DISCOVERY TURBO
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/52
+#EXTINF:-1,DISCOVERY WORLD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/53
+#EXTINF:-1,DISNEY CHANNEL
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54
+#EXTINF:-1 group-title="Películas" tvg-name="FOX",FOX
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/69
+#EXTINF:-1 group-title="Deportes",GOL PLAY
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/84
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Películas" tvg-name="HBO Latin America HDTV (East) (HBOHD) [148]",HBO
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/87
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="Películas" audio-track="spa" tvg-name="HBO 2 (Panamerican) (HBO 2) [158]",HBO 2
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/88
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_lam.png" group-title="Películas" audio-track="spa" tvg-name="HBO Family (Spanish) (HBOFAM) [162]",HBO Family
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/89
+#EXTINF:-1,HBO MUNDI
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/250
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-plus-us.png" group-title="Películas" audio-track="spa" tvg-name="HBO Plus (Panamericano) (HBO+) [160]",HBO +
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/90
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-pop-us.png" group-title="Películas" audio-track="spa" tvg-name="Canal HBO Pop",HBO Pop
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/98
+#EXTINF:-1,HBO SIGNATURE
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/246
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Películas" audio-track="spa" tvg-name="HBO Xtreme Panamericano (HBOXTR) [164]",HBO Xtreme
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/97
+#EXTINF:-1,Historia
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/92
+#EXTINF:-1,MEGA
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/232
+#EXTINF:-1 group-title="Películas",M+ Acción
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36605
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-cine-espanol-es.svg" group-title="Películas",M+ Cine Español
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36607
+#EXTINF:-1 group-title="Películas",M+ Comedia
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36606
+#EXTINF:-1,MOVISTAR DEPORTES
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/688
+#EXTINF:-1,MOVISTAR DISNEY
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36608
+#EXTINF:-1 group-title="Películas",M+ Drama
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36609
+#EXTINF:-1,MOVISTAR ESTRENOS
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36610
+#EXTINF:-1 group-title="Películas",M+ Series
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36611
+#EXTINF:-1,Nat Geo Wild HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/103
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/104
+#EXTINF:-1,NETFLIX LATINO 1 HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36735
+#EXTINF:-1,NETFLIX LATINO 18 HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36752
+#EXTINF:-1,NETFLIX LATINO 20 HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36754
+#EXTINF:-1,NETFLIX LATINO 21 HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36755
+#EXTINF:-1,NETFLIX LATINO 22 HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36756
+#EXTINF:-1,NETFLIX LATINO 23 HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36757
+#EXTINF:-1,NETFLIX LATINO 24 HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36758
+#EXTINF:-1,NETFLIX LATINO 25 HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36759
+#EXTINF:-1,SHOWTIME
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/111
+#EXTINF:-1 group-title="Películas",SYFY
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/118
+#EXTINF:-1 group-title="Deportes",M+ LaLiga TV 
+http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29153
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="Deportes",M+ LaLiga TV2
+http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29154
+#EXTINF:-1 group-title="Películas",M+ Vamos HD
+http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29157
+#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
+http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29159
+#EXTINF:-1 group-title="Deportes",GOL PLAY
+http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29160
+#EXTINF:-1 group-title="Deportes",EUROSPORT 1
+http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29163
+#EXTINF:-1 group-title="Deportes",EUROSPORT 2
+http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29164
