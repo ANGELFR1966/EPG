@@ -25,8 +25,6 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321152.ts
 http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29074
 #EXTINF:-1,CRIMEN & INVESTIGACION
 http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29122
-#EXTINF:-1,DARK RED
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321202.ts
 #EXTINF:-1,DISCOVERY 
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/42
 #EXTINF:-1,DISCOVERY FAMILIA
@@ -99,10 +97,10 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/104
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/118
 #EXTINF:-1 group-title="Películas",TCM
 http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29082
-#EXTINF:-1,ES: VIAJAR FHD
+#EXTINF:-1,VIAJAR
 http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29113
 #EXTINF:-1 group-title="Películas" tvg-name="Warner TV HD",TNT
-http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29083
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321443.ts
 #EXTINF:-1 group-title="Deportes",M+ LaLiga TV 
 http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29153
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="Deportes",M+ LaLiga TV2
