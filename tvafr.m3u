@@ -13,12 +13,12 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321120.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321140.ts
 #EXTINF:-1,Canal Cocina
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321149.ts
-#EXTINF:-1,Canal Dark
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321152.ts
-#EXTINF:-1 group-title="Películas",COMEDY CENTRAL
+##EXTINF:-1 group-title="Películas",COMEDY CENTRAL
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321185.ts
 #EXTINF:-1,CRIMEN & INVESTIGACION
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321194.ts
+#EXTINF:-1,DARK
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321152.ts
 #EXTINF:-1,DISCOVERY 
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/42
 #EXTINF:-1,DISCOVERY FAMILIA
