@@ -36,17 +36,36 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/84
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Películas" tvg-name="HBO Latin America HDTV (East) (HBOHD) [148]",HBO
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/87
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="Películas" audio-track="spa" tvg-name="HBO 2 (Panamerican) (HBO 2) [158]",HBO 2
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/88
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/90189
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_lam.png" group-title="Películas" audio-track="spa" tvg-name="HBO Family (Spanish) (HBOFAM) [162]",HBO Family
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/89
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/90191
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-plus-us.png" group-title="Películas" audio-track="spa" tvg-name="HBO Plus (Panamericano) (HBO+) [160]",HBO +
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/90
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-pop-us.png" group-title="Películas" audio-track="spa" tvg-name="Canal HBO Pop",HBO Pop
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/98
-#EXTINF:-1,HBO SIGNATURE
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/246
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/90194
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_lam.png" group-title="Películas" audio-track="spa" tvg-name="Canal HBO Signature",HBO Signature
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/90195
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Películas" audio-track="spa" tvg-name="HBO Xtreme Panamericano (HBOXTR) [164]",HBO Xtreme
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/97
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/90190
+
+#EXTINF:-1,SD_LAT: Hbo East
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/131096
+#EXTINF:-1,SD_LAT: Hbo Plus West
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/131097
+#EXTINF:-1,SD_LAT: Hbo Signature
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/131098
+#EXTINF:-1,SD_LAT: Hbo West
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/131099
+#EXTINF:-1,SD_LAT: Hbo Plus
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/131117
+#EXTINF:-1,SD_LAT: Hbo Family
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/131118
+#EXTINF:-1,SD_LAT: Hbo 2
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/131122
+
+
+
+
 #EXTINF:-1,Historia
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321158.ts
 #EXTINF:-1,La Resistencia 24H
@@ -63,9 +82,9 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36607
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321316.ts
 #EXTINF:-1 group-title="Películas",M+ Comedia
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36606
-#EXTINF:-1,group-title="Deportes",M+ Cracks
+#EXTINF:-1 group-title="Deportes",M+ Cracks
 http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29113
-#EXTINF:-1,group-title="Deportes",M+ Deportes
+#EXTINF:-1 group-title="Deportes",M+ Deportes
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/688
 #EXTINF:-1 group-title="Películas",M+ Drama
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321333.ts
@@ -79,8 +98,6 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321349.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321346.ts
 #EXTINF:-1,M+ Vamos
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321073.ts
-#EXTINF:-1,Nat Geo Wild HD
-
 #EXTINF:-1 group-title="Películas",NEOX
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321376.ts
 #EXTINF:-1 group-title="Películas",NOVA
