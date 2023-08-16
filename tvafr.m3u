@@ -3,7 +3,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml"
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Películas" ,AMC 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321104.ts
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" group-title="Películas" ,AMC Break
+#EXTINF:-1 tvg-chno="2" group-title="Películas" ,AMC Break
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321100.ts 
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://i.imgur.com/g8zMKwk.png" group-title="Películas",AMC CRIME
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321101.ts
