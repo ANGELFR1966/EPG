@@ -48,13 +48,12 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/246
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Películas" audio-track="spa" tvg-name="HBO Xtreme Panamericano (HBOXTR) [164]",HBO Xtreme
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/97
 #EXTINF:-1,Historia
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/92
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321158.ts
 #EXTINF:-1,La Resistencia 24H
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321287.ts
 #EXTINF:-1,Mega
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321301.ts
-
-#EXTINF:-1,M+ #0
+#EXTINF:-1 group-title="Películas",M+ Originales
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321070.ts
 #EXTINF:-1 group-title="Películas",M+ Acción
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36605
@@ -64,31 +63,24 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36607
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321316.ts
 #EXTINF:-1 group-title="Películas",M+ Comedia
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36606
-#EXTINF:-1,M+ Cracks
+#EXTINF:-1,group-title="Deportes",M+ Cracks
 http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29113
-#EXTINF:-1,M+ Deportes
+#EXTINF:-1,group-title="Deportes",M+ Deportes
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/688
 #EXTINF:-1 group-title="Películas",M+ Drama
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321333.ts
-#EXTINF:-1 group-title="Películas",M+ Estrenos 2
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321336.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="Deportes",M+ LaLiga TV2
 http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29154
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
 http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29159
 #EXTINF:-1 group-title="Películas",M+ Series
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321349.ts
-#EXTINF:-1 group-title="Películas",M+ Seriesmania
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321350.ts
 #EXTINF:-1 group-title="Películas",M+ Suspense
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321346.ts
 #EXTINF:-1,M+ Vamos
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321073.ts
-
 #EXTINF:-1,Nat Geo Wild HD
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/103
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/104
+
 #EXTINF:-1 group-title="Películas",NEOX
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321376.ts
 #EXTINF:-1 group-title="Películas",NOVA
