@@ -16,15 +16,15 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/19
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn-movies-us-pt.png" group-title="Películas",AXN Movies
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6CKqVTO.png" group-title="Películas" ,Calle 13 HD
-http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29086
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321140.ts
 #EXTINF:-1,CANAL COCINA
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321149.ts
 #EXTINF:-1,CANAL DARK
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321152.ts
 #EXTINF:-1 group-title="Películas",COMEDY CENTRAL
-http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29074
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321185.ts
 #EXTINF:-1,CRIMEN & INVESTIGACION
-http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29122
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321194.ts
 #EXTINF:-1,DISCOVERY 
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/42
 #EXTINF:-1,DISCOVERY FAMILIA
@@ -45,10 +45,16 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/53
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54
 #EXTINF:-1 group-title="Películas",ENERGY
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321238.ts
+#EXTINF:-1 group-title="Deportes",EUROSPORT 1
+http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29163
+#EXTINF:-1 group-title="Deportes",EUROSPORT 2
+http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29164
 #EXTINF:-1 group-title="Películas",Factoría de Ficción
-http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29123
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321246.ts
 #EXTINF:-1 group-title="Películas" tvg-name="FOX",FOX
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/69
+#EXTINF:-1 group-title="Deportes",GOL PLAY
+http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29160
 #EXTINF:-1 group-title="Deportes",GOL TV
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/84
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Películas" tvg-name="HBO Latin America HDTV (East) (HBOHD) [148]",HBO
@@ -70,7 +76,10 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/92
 #EXTINF:-1,La Resistencia 24H
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321287.ts
 #EXTINF:-1,Mega
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/232
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321301.ts
+
+#EXTINF:-1,M+ #0
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321070.ts
 #EXTINF:-1 group-title="Películas",M+ Acción
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36605
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-cine-espanol-es.svg" group-title="Películas",M+ Cine Español
@@ -79,37 +88,46 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36607
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321316.ts
 #EXTINF:-1 group-title="Películas",M+ Comedia
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36606
-#EXTINF:-1 group-title="Películas",M+ Drama
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321333.ts
+#EXTINF:-1,M+ Cracks
+http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29113
 #EXTINF:-1,M+ Deportes
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/688
 #EXTINF:-1 group-title="Películas",M+ Drama
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36609
-#EXTINF:-1,Movistar #0
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321070.ts
-#EXTINF:-1,Movistar Vamos
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321073.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/103
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/104
-#EXTINF:-1 group-title="Películas",SYFY
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/118
-#EXTINF:-1 group-title="Películas",TCM
-http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29082
-#EXTINF:-1,VIAJAR
-http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29113
-#EXTINF:-1 group-title="Películas" tvg-name="Warner TV HD",TNT
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321443.ts
-#EXTINF:-1 group-title="Deportes",M+ LaLiga TV 
-http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29153
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321333.ts
+#EXTINF:-1 group-title="Películas",M+ Estrenos 2
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321336.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="Deportes",M+ LaLiga TV2
 http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29154
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
 http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29159
-#EXTINF:-1 group-title="Deportes",GOL PLAY
-http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29160
-#EXTINF:-1 group-title="Deportes",EUROSPORT 1
-http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29163
-#EXTINF:-1 group-title="Deportes",EUROSPORT 2
-http://darkpower.art:8080/Uu6H8ZV8J7kzKombTV/zhk7UxP48Wew/29164
+#EXTINF:-1 group-title="Películas",M+ Series
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321349.ts
+#EXTINF:-1 group-title="Películas",M+ Seriesmania
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321350.ts
+#EXTINF:-1 group-title="Películas",M+ Suspense
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321346.ts
+#EXTINF:-1,M+ Vamos
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321073.ts
+
+#EXTINF:-1,Nat Geo Wild HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/103
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/104
+#EXTINF:-1 group-title="Películas",NEOX
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321376.ts
+#EXTINF:-1 group-title="Películas",NOVA
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321384.ts
+#EXTINF:-1 group-title="Películas",Odisea
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321390.ts
+#EXTINF:-1 group-title="Películas",Paramount Network
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321392.ts
+#EXTINF:-1,Somos
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321414.ts
+#EXTINF:-1 group-title="Películas",SYFY
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321424.ts
+#EXTINF:-1 group-title="Películas",TCM
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321427.ts
+#EXTINF:-1 group-title="Películas" tvg-name="Warner TV HD",TNT
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321443.ts
+#EXTINF:-1,XTRM
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321478.ts
