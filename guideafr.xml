@@ -56,48 +56,6 @@
     <display-name lang="es">Cine Friki</display-name>
     <url>http://www.tivify.tv</url>
   </channel>
-  <programme start="20230816090100 +0000" stop="20230816110700 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">Un cuento de invierno</title>
-  </programme>
-  <programme start="20230816110700 +0000" stop="20230816130200 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">Rampage: Devastación</title>
-  </programme>
-  <programme start="20230816130200 +0000" stop="20230816140300 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">El jardín de bronce</title>
-  </programme>
-  <programme start="20230816140300 +0000" stop="20230816162100 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">El justiciero</title>
-  </programme>
-  <programme start="20230816162100 +0000" stop="20230816184300 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">La mujer rey</title>
-  </programme>
-  <programme start="20230816184300 +0000" stop="20230816205600 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">A Man Called Otto</title>
-  </programme>
-  <programme start="20230816205600 +0000" stop="20230816215400 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">El jardín de bronce</title>
-  </programme>
-  <programme start="20230816215400 +0000" stop="20230817001000 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">¡Shazam! La furia de los dioses</title>
-  </programme>
-  <programme start="20230817001000 +0000" stop="20230817010100 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">Peacemaker</title>
-  </programme>
-  <programme start="20230817010100 +0000" stop="20230817025100 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">The Pope's Exorcist</title>
-  </programme>
-  <programme start="20230817025100 +0000" stop="20230817052600 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">Spider-Man: Sin camino a casa</title>
-  </programme>
-  <programme start="20230817052600 +0000" stop="20230817072400 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">Desconectada</title>
-  </programme>
-  <programme start="20230817072400 +0000" stop="20230817090100 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">Horizonte mortal</title>
-  </programme>
-  <programme start="20230817090100 +0000" stop="20230817105200 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
-    <title lang="en">Sí señor</title>
-  </programme>
   <programme start="20230817105200 +0000" stop="20230817121500 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
     <title lang="en">El Cadáver de la Novia</title>
   </programme>
@@ -236,44 +194,44 @@
   <programme start="20230820220000 +0000" stop="20230821000000 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
     <title lang="en">Memory</title>
   </programme>
-  <programme start="20230816090200 +0000" stop="20230816104200 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">Días sin Huella</title>
+  <programme start="20230821000000 +0000" stop="20230821021800 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">El justiciero</title>
   </programme>
-  <programme start="20230816104200 +0000" stop="20230816125200 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">Frente al Mar</title>
+  <programme start="20230821021800 +0000" stop="20230821041800 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">Violent Night</title>
   </programme>
-  <programme start="20230816125200 +0000" stop="20230816144700 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">Eiffel</title>
+  <programme start="20230821041800 +0000" stop="20230821070300 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">Elvis</title>
   </programme>
-  <programme start="20230816144700 +0000" stop="20230816163200 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">All That Breathes</title>
+  <programme start="20230821070300 +0000" stop="20230821090000 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">El Dilema</title>
   </programme>
-  <programme start="20230816163200 +0000" stop="20230816185200 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">La Naranja Mecánica</title>
+  <programme start="20230821090000 +0000" stop="20230821110400 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">Kong: La Isla Calavera</title>
   </programme>
-  <programme start="20230816185200 +0000" stop="20230816204700 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">Cube</title>
+  <programme start="20230821110400 +0000" stop="20230821132500 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">Eso</title>
   </programme>
-  <programme start="20230816204700 +0000" stop="20230816223700 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">Suburbicom: Bienvenidos al paraiso</title>
+  <programme start="20230821132500 +0000" stop="20230821150500 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">65</title>
   </programme>
-  <programme start="20230816223700 +0000" stop="20230817010200 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">Escándalo americano</title>
+  <programme start="20230821150500 +0000" stop="20230821154100 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">La vida sexual de las universitarias</title>
   </programme>
-  <programme start="20230817010200 +0000" stop="20230817024700 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">Cuatro días más</title>
+  <programme start="20230821154100 +0000" stop="20230821172600 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">The Croods</title>
   </programme>
-  <programme start="20230817024700 +0000" stop="20230817050700 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">¿Qué Pasó con Baby Jane?</title>
+  <programme start="20230821172600 +0000" stop="20230821191800 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">DC League Of Super-Pets</title>
   </programme>
-  <programme start="20230817050700 +0000" stop="20230817071200 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">El resplandor</title>
+  <programme start="20230821191800 +0000" stop="20230821210400 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">The Bad Guys en Español</title>
   </programme>
-  <programme start="20230817071200 +0000" stop="20230817090200 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">Charada</title>
+  <programme start="20230821210400 +0000" stop="20230821223600 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">The Secret Life of Pets</title>
   </programme>
-  <programme start="20230817090200 +0000" stop="20230817113200 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
-    <title lang="en">The Wild Bunch - The Original Director's Cut</title>
+  <programme start="20230821223600 +0000" stop="20230822002500 +0000" channel="HBO 2 (Panamerican) (HBO 2) [158]">
+    <title lang="en">Puss in Boots: The Last Wish en Español</title>
   </programme>
   <programme start="20230817113200 +0000" stop="20230817133700 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
     <title lang="en">La música de mi vida</title>
@@ -410,44 +368,44 @@
   <programme start="20230820231000 +0000" stop="20230821010000 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
     <title lang="en">The Wizard of Oz</title>
   </programme>
-  <programme start="20230816090000 +0000" stop="20230816111900 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">El escuadrón suicida</title>
+  <programme start="20230821010000 +0000" stop="20230821030500 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">La música de mi vida</title>
   </programme>
-  <programme start="20230816111900 +0000" stop="20230816131900 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">Halloween: La noche final</title>
+  <programme start="20230821030500 +0000" stop="20230821045000 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">Meu tio José</title>
   </programme>
-  <programme start="20230816131900 +0000" stop="20230816145500 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">Espíritu oscuro</title>
+  <programme start="20230821045000 +0000" stop="20230821064500 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">C'mon C'mon</title>
   </programme>
-  <programme start="20230816145500 +0000" stop="20230816163000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">Batman: The Doom That Came to Gotham</title>
+  <programme start="20230821064500 +0000" stop="20230821090000 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">The Green Knight</title>
   </programme>
-  <programme start="20230816163000 +0000" stop="20230816181400 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">Freddy Contra Jason</title>
+  <programme start="20230821090000 +0000" stop="20230821103000 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">Rompiendo todas las reglas</title>
   </programme>
-  <programme start="20230816181400 +0000" stop="20230816203000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">Van Helsing: El Cazador de Monstruos</title>
+  <programme start="20230821103000 +0000" stop="20230821123000 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">La cordillera</title>
   </programme>
-  <programme start="20230816203000 +0000" stop="20230816230000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">Tenet</title>
+  <programme start="20230821123000 +0000" stop="20230821141500 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">Présidents</title>
   </programme>
-  <programme start="20230816230000 +0000" stop="20230817010000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">El conjuro 3: El diablo me obligó a hacerlo</title>
+  <programme start="20230821141500 +0000" stop="20230821170000 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">For Whom the Bell Tolls</title>
   </programme>
-  <programme start="20230817010000 +0000" stop="20230817032000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">El escuadrón suicida</title>
+  <programme start="20230821170000 +0000" stop="20230821185000 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">Intriga en Berlín</title>
   </programme>
-  <programme start="20230817032000 +0000" stop="20230817052000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">Halloween: La noche final</title>
+  <programme start="20230821185000 +0000" stop="20230821204000 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">Psycho</title>
   </programme>
-  <programme start="20230817052000 +0000" stop="20230817070400 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">Espíritus Ocultos</title>
+  <programme start="20230821204000 +0000" stop="20230821211000 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">Sentimos las molestias</title>
   </programme>
-  <programme start="20230817070400 +0000" stop="20230817090000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">Tres son multitud</title>
+  <programme start="20230821211000 +0000" stop="20230821231500 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">La Habitación</title>
   </programme>
-  <programme start="20230817090000 +0000" stop="20230817100700 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
-    <title lang="en">Yvonne Orji: totalmente yo.</title>
+  <programme start="20230821231500 +0000" stop="20230822010000 +0000" channel="HBO MUNDI (Panamerican) (HBOMUN) [159]">
+    <title lang="en">Veneciafrenia</title>
   </programme>
   <programme start="20230817100700 +0000" stop="20230817120700 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
     <title lang="en">Eight for Silver</title>
@@ -593,50 +551,41 @@
   <programme start="20230820230000 +0000" stop="20230821010000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
     <title lang="en">Uncharted</title>
   </programme>
-  <programme start="20230816090200 +0000" stop="20230816103200 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Inspector Araña</title>
+  <programme start="20230821010000 +0000" stop="20230821030000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
+    <title lang="en">Halloween Ends en Español</title>
   </programme>
-  <programme start="20230816103200 +0000" stop="20230816120000 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Cigüeñas: La historia que no te contaron</title>
+  <programme start="20230821030000 +0000" stop="20230821050000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
+    <title lang="en">Poltergeist, Juegos Diabólicos</title>
   </programme>
-  <programme start="20230816120000 +0000" stop="20230816132600 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Lo que el Agua Se Llevó</title>
+  <programme start="20230821050000 +0000" stop="20230821070000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
+    <title lang="en">El exorcismo de Emily Rose</title>
   </programme>
-  <programme start="20230816132600 +0000" stop="20230816145700 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">El Espantatiburones</title>
+  <programme start="20230821070000 +0000" stop="20230821090000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
+    <title lang="en">Starman</title>
   </programme>
-  <programme start="20230816145700 +0000" stop="20230816162400 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Wallace y Gromit: La Batalla de los Vegetales</title>
+  <programme start="20230821090000 +0000" stop="20230821110500 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
+    <title lang="en">Mis Otros Yo</title>
   </programme>
-  <programme start="20230816162400 +0000" stop="20230816181900 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Winter el delfín</title>
+  <programme start="20230821110500 +0000" stop="20230821132000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
+    <title lang="en">Moonfall</title>
   </programme>
-  <programme start="20230816181900 +0000" stop="20230816201700 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">El juego de Ender</title>
+  <programme start="20230821132000 +0000" stop="20230821152500 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
+    <title lang="en">Battlefield Earth</title>
   </programme>
-  <programme start="20230816201700 +0000" stop="20230816215500 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Ga'Hoole: La leyenda de los Guardianes</title>
+  <programme start="20230821152500 +0000" stop="20230821170500 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
+    <title lang="en">Infinite Storm</title>
   </programme>
-  <programme start="20230816215500 +0000" stop="20230816232400 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Lo que el Agua Se Llevó</title>
+  <programme start="20230821170500 +0000" stop="20230821185500 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
+    <title lang="en">El Camino De Regreso</title>
   </programme>
-  <programme start="20230816232400 +0000" stop="20230817005900 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Kung Fu Panda 3</title>
+  <programme start="20230821185500 +0000" stop="20230821210500 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
+    <title lang="en">El destino de Júpiter</title>
   </programme>
-  <programme start="20230817005900 +0000" stop="20230817031200 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Shazam</title>
+  <programme start="20230821210500 +0000" stop="20230821231500 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
+    <title lang="en">El Rey Arturo: La leyenda de la espada</title>
   </programme>
-  <programme start="20230817031200 +0000" stop="20230817045600 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Después de la Tierra</title>
-  </programme>
-  <programme start="20230817045600 +0000" stop="20230817063800 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Año bisiesto</title>
-  </programme>
-  <programme start="20230817063800 +0000" stop="20230817081000 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Looney Tunes: De nuevo en acción</title>
-  </programme>
-  <programme start="20230817081000 +0000" stop="20230817102400 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
-    <title lang="en">Shazam</title>
+  <programme start="20230821231500 +0000" stop="20230822010000 +0000" channel="HBO Plus (Panamericano) (HBO+) [160]">
+    <title lang="en">Furia de titanes 2</title>
   </programme>
   <programme start="20230817102400 +0000" stop="20230817120000 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
     <title lang="en">Kung Fu Panda 3</title>
@@ -791,62 +740,41 @@
   <programme start="20230820232300 +0000" stop="20230821010000 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
     <title lang="en">Kung Fu Panda 3</title>
   </programme>
-  <programme start="20230816094600 +0000" stop="20230816105100 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Atsuko Okatsuka: The Intruder</title>
+  <programme start="20230821010000 +0000" stop="20230821032300 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
+    <title lang="en">La Mujer Maravilla</title>
   </programme>
-  <programme start="20230816105100 +0000" stop="20230816125100 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Robin Williams: Entra en mi mente</title>
+  <programme start="20230821032300 +0000" stop="20230821052100 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
+    <title lang="en">Luna de miel en familia</title>
   </programme>
-  <programme start="20230816125100 +0000" stop="20230816150100 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Como gustéis</title>
+  <programme start="20230821052100 +0000" stop="20230821071600 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
+    <title lang="en">Los Goonies</title>
   </programme>
-  <programme start="20230816150100 +0000" stop="20230816165100 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Breslin y Hamill: Las Voces de Nueva York</title>
+  <programme start="20230821071600 +0000" stop="20230821091100 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
+    <title lang="en">La brújula dorada</title>
   </programme>
-  <programme start="20230816165100 +0000" stop="20230816185100 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Desangrando a Silicon Valley</title>
+  <programme start="20230821091100 +0000" stop="20230821101200 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
+    <title lang="en">1000% yo: crecer en una familia interracial</title>
   </programme>
-  <programme start="20230816185100 +0000" stop="20230816210000 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Life of Crime 1984-2020</title>
+  <programme start="20230821101200 +0000" stop="20230821120000 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
+    <title lang="en">Los Pitufos 2</title>
   </programme>
-  <programme start="20230816210000 +0000" stop="20230816220100 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Last Call: When Aserial Killer Stalkedqueer New York</title>
+  <programme start="20230821120000 +0000" stop="20230821122500 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
+    <title lang="en">Bebés clásicos</title>
   </programme>
-  <programme start="20230816220100 +0000" stop="20230816230600 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Capadocia</title>
+  <programme start="20230821122500 +0000" stop="20230821145800 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
+    <title lang="en">Harry Potter y la piedra filosofal</title>
   </programme>
-  <programme start="20230816230600 +0000" stop="20230817001100 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Capadocia</title>
+  <programme start="20230821145800 +0000" stop="20230821174000 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
+    <title lang="en">Harry Potter y la cámara secreta</title>
   </programme>
-  <programme start="20230817001100 +0000" stop="20230817011100 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Capadocia</title>
+  <programme start="20230821174000 +0000" stop="20230821200300 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
+    <title lang="en">Harry Potter y el prisionero de Azkaban</title>
   </programme>
-  <programme start="20230817011100 +0000" stop="20230817030100 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">O.G.</title>
+  <programme start="20230821200300 +0000" stop="20230821224100 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
+    <title lang="en">Harry Potter y el cáliz de fuego</title>
   </programme>
-  <programme start="20230817030100 +0000" stop="20230817040600 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Capadocia</title>
-  </programme>
-  <programme start="20230817040600 +0000" stop="20230817051100 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Capadocia</title>
-  </programme>
-  <programme start="20230817051100 +0000" stop="20230817061000 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Capadocia</title>
-  </programme>
-  <programme start="20230817061000 +0000" stop="20230817064100 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">How To With John Wilson</title>
-  </programme>
-  <programme start="20230817064100 +0000" stop="20230817075600 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Acontecimiento: Una Revolución de Energía Limpia</title>
-  </programme>
-  <programme start="20230817075600 +0000" stop="20230817090100 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Insecure: El Final</title>
-  </programme>
-  <programme start="20230817090100 +0000" stop="20230817094300 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Lunes En Racine</title>
-  </programme>
-  <programme start="20230817094300 +0000" stop="20230817104300 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
-    <title lang="en">Fuera de la Burbuja: En el Camino Con Alexandra Pelosi</title>
+  <programme start="20230821224100 +0000" stop="20230822010000 +0000" channel="HBO Family (Spanish) (HBOFAM) [162]">
+    <title lang="en">Harry Potter y la Orden del Fénix</title>
   </programme>
   <programme start="20230817104300 +0000" stop="20230817123300 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
     <title lang="en">Hijo nativo</title>
@@ -1040,47 +968,56 @@
   <programme start="20230820230200 +0000" stop="20230821000000 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
     <title lang="en">El jardín de bronce</title>
   </programme>
-  <programme start="20230816093200 +0000" stop="20230816114200 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">El plan perfecto</title>
+  <programme start="20230821000000 +0000" stop="20230821015200 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">O.G.</title>
   </programme>
-  <programme start="20230816114200 +0000" stop="20230816135000 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">Atracción peligrosa</title>
+  <programme start="20230821015200 +0000" stop="20230821040200 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Como gustéis</title>
   </programme>
-  <programme start="20230816135000 +0000" stop="20230816161000 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">Ambulancia</title>
+  <programme start="20230821040200 +0000" stop="20230821060700 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Being Mary Tyler Moore</title>
   </programme>
-  <programme start="20230816161000 +0000" stop="20230816181300 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">Mad Max: Furia en el camino</title>
+  <programme start="20230821060700 +0000" stop="20230821080000 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Breslin y Hamill: Las Voces de Nueva York</title>
   </programme>
-  <programme start="20230816181300 +0000" stop="20230816200300 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">Juego de criminales</title>
+  <programme start="20230821080000 +0000" stop="20230821090000 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Amy Schumer: en vivo desde el teatro Apollo</title>
   </programme>
-  <programme start="20230816200300 +0000" stop="20230816222300 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">Ambulancia</title>
+  <programme start="20230821090000 +0000" stop="20230821094500 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Burning Ojai: Our Fire Story</title>
   </programme>
-  <programme start="20230816222300 +0000" stop="20230817000500 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">CHIPS: Patrulla Motorizada Recargada</title>
+  <programme start="20230821094500 +0000" stop="20230821103800 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Tig Notaro: En dibujos</title>
   </programme>
-  <programme start="20230817000500 +0000" stop="20230817010700 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">Lakers: Tiempo De Ganar</title>
+  <programme start="20230821103800 +0000" stop="20230821121300 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Luces Brillantes: Con Debbie Reynolds y Carrie Fisher</title>
   </programme>
-  <programme start="20230817010700 +0000" stop="20230817025700 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">Juego de criminales</title>
+  <programme start="20230821121300 +0000" stop="20230821135800 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Grey Gardens</title>
   </programme>
-  <programme start="20230817025700 +0000" stop="20230817035700 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">El jardín de bronce</title>
+  <programme start="20230821135800 +0000" stop="20230821160000 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Being Mary Tyler Moore</title>
   </programme>
-  <programme start="20230817035700 +0000" stop="20230817054400 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">Betibú</title>
+  <programme start="20230821160000 +0000" stop="20230821180000 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Desangrando a Silicon Valley</title>
   </programme>
-  <programme start="20230817054400 +0000" stop="20230817072400 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">Medio Muerto</title>
+  <programme start="20230821180000 +0000" stop="20230821190000 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Last Call: When Aserial Killer Stalkedqueer New York</title>
   </programme>
-  <programme start="20230817072400 +0000" stop="20230817090200 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">Mercenario de la justicia</title>
+  <programme start="20230821190000 +0000" stop="20230821200000 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Last Call: When Aserial Killer Stalkedqueer New York</title>
   </programme>
-  <programme start="20230817090200 +0000" stop="20230817104100 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
-    <title lang="en">Riesgo Máximo</title>
+  <programme start="20230821200000 +0000" stop="20230821210000 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">La última ronda: un asesino en serie en la NY Queer</title>
+  </programme>
+  <programme start="20230821210000 +0000" stop="20230821220000 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">La última ronda: un asesino en serie en la NY Queer</title>
+  </programme>
+  <programme start="20230821220000 +0000" stop="20230821230500 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Capadocia</title>
+  </programme>
+  <programme start="20230821230500 +0000" stop="20230822000500 +0000" channel="HBO Signature (Panamerican) (HBOSG) [163]">
+    <title lang="en">Capadocia</title>
   </programme>
   <programme start="20230817104100 +0000" stop="20230817123300 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
     <title lang="en">Sucker Punch: Mundo Surreal</title>
@@ -1223,47 +1160,38 @@
   <programme start="20230820232500 +0000" stop="20230821010000 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
     <title lang="en">Beast</title>
   </programme>
-  <programme start="20230816091100 +0000" stop="20230816111300 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">Black Adam</title>
+  <programme start="20230821010000 +0000" stop="20230821024700 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
+    <title lang="en">Morbius</title>
   </programme>
-  <programme start="20230816111300 +0000" stop="20230816115900 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">How To With John Wilson</title>
+  <programme start="20230821024700 +0000" stop="20230821045300 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
+    <title lang="en">Warcraft</title>
   </programme>
-  <programme start="20230816115900 +0000" stop="20230816133100 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">La vida secreta de tus mascotas</title>
+  <programme start="20230821045300 +0000" stop="20230821064600 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
+    <title lang="en">Sucker Punch: Mundo Surreal</title>
   </programme>
-  <programme start="20230816133100 +0000" stop="20230816153100 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">Godzilla vs. Kong</title>
+  <programme start="20230821064600 +0000" stop="20230821090000 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
+    <title lang="en">V de Venganza</title>
   </programme>
-  <programme start="20230816153100 +0000" stop="20230816173100 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">Noche sin paz</title>
+  <programme start="20230821090000 +0000" stop="20230821113500 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
+    <title lang="en">Bastidores - The Matrix Resurrections</title>
   </programme>
-  <programme start="20230816173100 +0000" stop="20230816194700 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">Rápidos y furiosos 5in control</title>
+  <programme start="20230821113500 +0000" stop="20230821140000 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
+    <title lang="en">Ready player one: Comienza el juego</title>
   </programme>
-  <programme start="20230816194700 +0000" stop="20230816212600 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">65: al borde de la extinción</title>
+  <programme start="20230821140000 +0000" stop="20230821162100 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
+    <title lang="en">Ambulancia</title>
   </programme>
-  <programme start="20230816212600 +0000" stop="20230816230000 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">Annabelle</title>
+  <programme start="20230821162100 +0000" stop="20230821181300 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
+    <title lang="en">La comisaría</title>
   </programme>
-  <programme start="20230816230000 +0000" stop="20230817011100 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">Ni un paso en falso</title>
+  <programme start="20230821181300 +0000" stop="20230821201900 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
+    <title lang="en">The 355</title>
   </programme>
-  <programme start="20230817011100 +0000" stop="20230817032400 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">Black Adam</title>
+  <programme start="20230821201900 +0000" stop="20230821224200 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
+    <title lang="en">Ready player one: Comienza el juego</title>
   </programme>
-  <programme start="20230817032400 +0000" stop="20230817052400 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">Megalodon</title>
-  </programme>
-  <programme start="20230817052400 +0000" stop="20230817073200 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">Guasón</title>
-  </programme>
-  <programme start="20230817073200 +0000" stop="20230817091100 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">Supercool: Una noche de locura</title>
-  </programme>
-  <programme start="20230817091100 +0000" stop="20230817103700 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
-    <title lang="en">Pelea de maestros</title>
+  <programme start="20230821224200 +0000" stop="20230822010000 +0000" channel="HBO Xtreme Panamericano (HBOXTR) [164]">
+    <title lang="en">Ambulancia</title>
   </programme>
   <programme start="20230817103700 +0000" stop="20230817115800 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
     <title lang="en">John Early: ahora más que nunca</title>
@@ -1403,44 +1331,47 @@
   <programme start="20230820221500 +0000" stop="20230821000000 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
     <title lang="en">Puss in Boots: The Last Wish en Español</title>
   </programme>
-  <programme start="20230816012500 -0500" stop="20230816032000 -0500" channel="Canal HBO Pop">
-    <title lang="es">Estafadoras en oferta</title>
+  <programme start="20230821000000 +0000" stop="20230821010200 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">El jardín de bronce</title>
   </programme>
-  <programme start="20230816032000 -0500" stop="20230816035500 -0500" channel="Canal HBO Pop">
-    <title lang="es">How to With John Wilson</title>
+  <programme start="20230821010200 +0000" stop="20230821020500 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">HBO Movies</title>
   </programme>
-  <programme start="20230816035500 -0500" stop="20230816060000 -0500" channel="Canal HBO Pop">
-    <title lang="es">Enamorándome de mi ex</title>
+  <programme start="20230821020500 +0000" stop="20230821030800 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">El jardín de bronce</title>
   </programme>
-  <programme start="20230816060000 -0500" stop="20230816080000 -0500" channel="Canal HBO Pop">
-    <title lang="es">Solo para parejas</title>
+  <programme start="20230821030800 +0000" stop="20230821041100 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">HBO Movies</title>
   </programme>
-  <programme start="20230816080000 -0500" stop="20230816095000 -0500" channel="Canal HBO Pop">
-    <title lang="es">Los Fantasmas de mis ex</title>
+  <programme start="20230821041100 +0000" stop="20230821062300 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">Batman Regresa</title>
   </programme>
-  <programme start="20230816095000 -0500" stop="20230816114500 -0500" channel="Canal HBO Pop">
-    <title lang="es">Music box Juice WRLD</title>
+  <programme start="20230821062300 +0000" stop="20230821090000 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">Wonder Woman 1984</title>
   </programme>
-  <programme start="20230816114500 -0500" stop="20230816140000 -0500" channel="Canal HBO Pop">
-    <title lang="es">Eclipse total</title>
+  <programme start="20230821090000 +0000" stop="20230821111300 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">Duplicidad</title>
   </programme>
-  <programme start="20230816140000 -0500" stop="20230816160500 -0500" channel="Canal HBO Pop">
-    <title lang="es">Baila Conmigo</title>
+  <programme start="20230821111300 +0000" stop="20230821130800 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">Central Intelligence</title>
   </programme>
-  <programme start="20230816160500 -0500" stop="20230816174500 -0500" channel="Canal HBO Pop">
-    <title lang="es">Medianoche En París</title>
+  <programme start="20230821130800 +0000" stop="20230821151600 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">Guasón</title>
   </programme>
-  <programme start="20230816174500 -0500" stop="20230816192500 -0500" channel="Canal HBO Pop">
-    <title lang="es">El duque</title>
+  <programme start="20230821151600 +0000" stop="20230821170000 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">Evil Dead: El despertar</title>
   </programme>
-  <programme start="20230816192500 -0500" stop="20230816212500 -0500" channel="Canal HBO Pop">
-    <title lang="es">Ajuste de cuentas</title>
+  <programme start="20230821170000 +0000" stop="20230821180300 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">HBO Movies</title>
   </programme>
-  <programme start="20230816212500 -0500" stop="20230816230000 -0500" channel="Canal HBO Pop">
-    <title lang="es">¿Por Qué Detenerse Ahora?</title>
+  <programme start="20230821180300 +0000" stop="20230821203900 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">Jurassic World Dominion</title>
   </programme>
-  <programme start="20230816230000 -0500" stop="20230817005500 -0500" channel="Canal HBO Pop">
-    <title lang="es">Super cool</title>
+  <programme start="20230821203900 +0000" stop="20230821231500 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">Spider-Man: No Way Home</title>
+  </programme>
+  <programme start="20230821231500 +0000" stop="20230822010500 +0000" channel="HBO Latin America HDTV (East) (HBOHD) [148]">
+    <title lang="en">The Pope's Exorcist</title>
   </programme>
   <programme start="20230817005500 -0500" stop="20230817013000 -0500" channel="Canal HBO Pop">
     <title lang="es">The Sex Lives of College Girls</title>
@@ -1604,47 +1535,47 @@
   <programme start="20230820222000 -0500" stop="20230821002500 -0500" channel="Canal HBO Pop">
     <title lang="es">Volver al Futuro III</title>
   </programme>
-  <programme start="20230816020500 -0500" stop="20230816040000 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">Edge of Tomorrow</title>
+  <programme start="20230821002500 -0500" stop="20230821021500 -0500" channel="Canal HBO Pop">
+    <title lang="es">Los cazafantasmas</title>
   </programme>
-  <programme start="20230816040000 -0500" stop="20230816050000 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">Hard Knocks: Training Camp With the Jets</title>
+  <programme start="20230821021500 -0500" stop="20230821041000 -0500" channel="Canal HBO Pop">
+    <title lang="es">Quiero matar a mi jefe 2</title>
   </programme>
-  <programme start="20230816050000 -0500" stop="20230816055000 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">Winning Time: The Rise of the Lakers Dynasty</title>
+  <programme start="20230821041000 -0500" stop="20230821060000 -0500" channel="Canal HBO Pop">
+    <title lang="es">Pase libre</title>
   </programme>
-  <programme start="20230816055000 -0500" stop="20230816080500 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">Dawn of the Planet of the Apes</title>
+  <programme start="20230821060000 -0500" stop="20230821074500 -0500" channel="Canal HBO Pop">
+    <title lang="es">Hermanastros</title>
   </programme>
-  <programme start="20230816080500 -0500" stop="20230816081500 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">Papi</title>
+  <programme start="20230821074500 -0500" stop="20230821093500 -0500" channel="Canal HBO Pop">
+    <title lang="es">American Pie 2</title>
   </programme>
-  <programme start="20230816081500 -0500" stop="20230816102000 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">Shakira in Concert: El Dorado World Tour</title>
+  <programme start="20230821093500 -0500" stop="20230821103500 -0500" channel="Canal HBO Pop">
+    <title lang="es">Sarah Silverman Alguien a</title>
   </programme>
-  <programme start="20230816102000 -0500" stop="20230816120000 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">Fargo</title>
+  <programme start="20230821103500 -0500" stop="20230821121000 -0500" channel="Canal HBO Pop">
+    <title lang="es">Nancy Drew y la escalera</title>
   </programme>
-  <programme start="20230816120000 -0500" stop="20230816134500 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">Tooth Fairy</title>
+  <programme start="20230821121000 -0500" stop="20230821140000 -0500" channel="Canal HBO Pop">
+    <title lang="es">Un impulsivo y loco amor</title>
   </programme>
-  <programme start="20230816134500 -0500" stop="20230816152000 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">Are we there yet?</title>
+  <programme start="20230821140000 -0500" stop="20230821161500 -0500" channel="Canal HBO Pop">
+    <title lang="es">Pura suerte</title>
   </programme>
-  <programme start="20230816152000 -0500" stop="20230816170000 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">Las mejores familias</title>
+  <programme start="20230821161500 -0500" stop="20230821180500 -0500" channel="Canal HBO Pop">
+    <title lang="es">Juego de poder</title>
   </programme>
-  <programme start="20230816170000 -0500" stop="20230816180000 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">Hard Knocks: Training Camp With the Jets</title>
+  <programme start="20230821180500 -0500" stop="20230821195000 -0500" channel="Canal HBO Pop">
+    <title lang="es">¿Qué pasó ayer?</title>
   </programme>
-  <programme start="20230816180000 -0500" stop="20230816203000 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">The Hobbit: The Battle of the Five Armies</title>
+  <programme start="20230821195000 -0500" stop="20230821214500 -0500" channel="Canal HBO Pop">
+    <title lang="es">Super cool</title>
   </programme>
-  <programme start="20230816203000 -0500" stop="20230816223000 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">I, Tonya</title>
+  <programme start="20230821214500 -0500" stop="20230821234000 -0500" channel="Canal HBO Pop">
+    <title lang="es">Estafadoras en oferta</title>
   </programme>
-  <programme start="20230816223000 -0500" stop="20230817000500 -0500" channel="Canal HBO Latino Este">
-    <title lang="es">Night catches US</title>
+  <programme start="20230821234000 -0500" stop="20230822014000 -0500" channel="Canal HBO Pop">
+    <title lang="es">Piña express</title>
   </programme>
   <programme start="20230817000500 -0500" stop="20230817020000 -0500" channel="Canal HBO Latino Este">
     <title lang="es">Moonlight</title>
@@ -1799,49 +1730,55 @@
   <programme start="20230820020000 -0500" stop="20230820030000 -0500" channel="Canal HBO Latino Este">
     <title lang="es">Stand Up to Cancer</title>
   </programme>
-  <programme start="20230816013000 -0500" stop="20230816034000 -0500" channel="Canal HBO Mundi">
-    <title lang="es">La Leyenda del Caballero Verde</title>
+  <programme start="20230820030000 -0500" stop="20230820054500 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">Avatar</title>
   </programme>
-  <programme start="20230816034000 -0500" stop="20230816060000 -0500" channel="Canal HBO Mundi">
-    <title lang="es">Moonage Daydream</title>
+  <programme start="20230820054500 -0500" stop="20230820063500 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">Winning Time: The Rise of the Lakers Dynasty</title>
   </programme>
-  <programme start="20230816060000 -0500" stop="20230816074500 -0500" channel="Canal HBO Mundi">
-    <title lang="es">People Just Do Nothing</title>
+  <programme start="20230820063500 -0500" stop="20230820070500 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">How to With John Wilson</title>
   </programme>
-  <programme start="20230816074500 -0500" stop="20230816081800 -0500" channel="Canal HBO Mundi">
-    <title lang="es">Sentimos las molestias</title>
+  <programme start="20230820070500 -0500" stop="20230820091500 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">Body of Lies</title>
   </programme>
-  <programme start="20230816081800 -0500" stop="20230816101000 -0500" channel="Canal HBO Mundi">
-    <title lang="es">Mala educación</title>
+  <programme start="20230820091500 -0500" stop="20230820104500 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">The Assistant</title>
   </programme>
-  <programme start="20230816101000 -0500" stop="20230816115000 -0500" channel="Canal HBO Mundi">
-    <title lang="es">Secreto de sangre</title>
+  <programme start="20230820104500 -0500" stop="20230820122000 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">Amaraica</title>
   </programme>
-  <programme start="20230816115000 -0500" stop="20230816140000 -0500" channel="Canal HBO Mundi">
-    <title lang="es">Al final del túnel</title>
+  <programme start="20230820122000 -0500" stop="20230820124000 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">Yun</title>
   </programme>
-  <programme start="20230816140000 -0500" stop="20230816154000 -0500" channel="Canal HBO Mundi">
-    <title lang="es">Días sin huella</title>
+  <programme start="20230820124000 -0500" stop="20230820144800 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">Harriet</title>
   </programme>
-  <programme start="20230816154000 -0500" stop="20230816175000 -0500" channel="Canal HBO Mundi">
-    <title lang="es">Frente al mar</title>
+  <programme start="20230820144800 -0500" stop="20230820165300 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">Valkyrie</title>
   </programme>
-  <programme start="20230816175000 -0500" stop="20230816194500 -0500" channel="Canal HBO Mundi">
-    <title lang="es">Bajo la Torre Eiffel</title>
+  <programme start="20230820165300 -0500" stop="20230820190000 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">Knowing</title>
   </programme>
-  <programme start="20230816194500 -0500" stop="20230816213000 -0500" channel="Canal HBO Mundi">
-    <title lang="es">Todo lo que respira</title>
+  <programme start="20230820190000 -0500" stop="20230820202500 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">El Planeta</title>
   </programme>
-  <programme start="20230816213000 -0500" stop="20230816235000 -0500" channel="Canal HBO Mundi">
-    <title lang="es">La Naranja Mecánica</title>
+  <programme start="20230820202500 -0500" stop="20230820205500 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">How to With John Wilson</title>
   </programme>
-  <programme start="20230816235000 -0500" stop="20230817014500 -0500" channel="Canal HBO Mundi">
-    <title lang="es">Atrapados en el cubo</title>
+  <programme start="20230820205500 -0500" stop="20230820234000 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">Avatar</title>
   </programme>
-  <programme start="20230817014500 -0500" stop="20230817033500 -0500" channel="Canal HBO Mundi">
+  <programme start="20230820234000 -0500" stop="20230821030000 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">Avatar: The Way of Water</title>
+  </programme>
+  <programme start="20230821234000 -0500" stop="20230822030000 -0500" channel="Canal HBO Latino Este">
+    <title lang="es">Avatar: The Way of Water</title>
+  </programme>
+  <programme start="20230817014500 -0500" stop="20230817033800 -0500" channel="Canal HBO Mundi">
     <title lang="es">Suburbicon Bienvenidos al</title>
   </programme>
-  <programme start="20230817033500 -0500" stop="20230817060000 -0500" channel="Canal HBO Mundi">
+  <programme start="20230817033800 -0500" stop="20230817060000 -0500" channel="Canal HBO Mundi">
     <title lang="es">Escándalo Americano</title>
   </programme>
   <programme start="20230817060000 -0500" stop="20230817074500 -0500" channel="Canal HBO Mundi">
@@ -1850,10 +1787,10 @@
   <programme start="20230817074500 -0500" stop="20230817100500 -0500" channel="Canal HBO Mundi">
     <title lang="es">¿Qué pasó con Baby Jane?</title>
   </programme>
-  <programme start="20230817100500 -0500" stop="20230817121000 -0500" channel="Canal HBO Mundi">
+  <programme start="20230817100500 -0500" stop="20230817120500 -0500" channel="Canal HBO Mundi">
     <title lang="es">El Resplandor</title>
   </programme>
-  <programme start="20230817121000 -0500" stop="20230817140000 -0500" channel="Canal HBO Mundi">
+  <programme start="20230817120500 -0500" stop="20230817140000 -0500" channel="Canal HBO Mundi">
     <title lang="es">Charada</title>
   </programme>
   <programme start="20230817140000 -0500" stop="20230817163000 -0500" channel="Canal HBO Mundi">
@@ -1868,10 +1805,10 @@
   <programme start="20230817203500 -0500" stop="20230817221000 -0500" channel="Canal HBO Mundi">
     <title lang="es">Amigos con dinero</title>
   </programme>
-  <programme start="20230817221000 -0500" stop="20230818000500 -0500" channel="Canal HBO Mundi">
+  <programme start="20230817221000 -0500" stop="20230818000300 -0500" channel="Canal HBO Mundi">
     <title lang="es">El Refugio</title>
   </programme>
-  <programme start="20230818000500 -0500" stop="20230818013500 -0500" channel="Canal HBO Mundi">
+  <programme start="20230818000300 -0500" stop="20230818013500 -0500" channel="Canal HBO Mundi">
     <title lang="es">Umma</title>
   </programme>
   <programme start="20230818013500 -0500" stop="20230818032500 -0500" channel="Canal HBO Mundi">
@@ -1985,56 +1922,53 @@
   <programme start="20230820221000 -0500" stop="20230821000000 -0500" channel="Canal HBO Mundi">
     <title lang="es">La maldición de la flor dorada</title>
   </programme>
-  <programme start="20230816020000 -0500" stop="20230816035000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">El Teléfono Negro</title>
+  <programme start="20230821000000 -0500" stop="20230821021500 -0500" channel="Canal HBO Mundi">
+    <title lang="es">La Leyenda del Caballero Verde</title>
   </programme>
-  <programme start="20230816035000 -0500" stop="20230816060000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">Black Adam</title>
+  <programme start="20230821021500 -0500" stop="20230821041000 -0500" channel="Canal HBO Mundi">
+    <title lang="es">Manos de piedra</title>
   </programme>
-  <programme start="20230816060000 -0500" stop="20230816075000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">El gato con botas: El último deseo</title>
+  <programme start="20230821041000 -0500" stop="20230821060000 -0500" channel="Canal HBO Mundi">
+    <title lang="es">El mago de Oz</title>
   </programme>
-  <programme start="20230816075000 -0500" stop="20230816094300 -0500" channel="Canal HBO Oeste">
-    <title lang="es">DC Liga de supermascotas</title>
+  <programme start="20230821060000 -0500" stop="20230821080500 -0500" channel="Canal HBO Mundi">
+    <title lang="es">La Música de mi Vida</title>
   </programme>
-  <programme start="20230816094300 -0500" stop="20230816113500 -0500" channel="Canal HBO Oeste">
-    <title lang="es">Locos de ira</title>
+  <programme start="20230821080500 -0500" stop="20230821100000 -0500" channel="Canal HBO Mundi">
+    <title lang="es">C'mon c'mon Siempre adelante</title>
   </programme>
-  <programme start="20230816113500 -0500" stop="20230816140000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">Secretos íntimos</title>
+  <programme start="20230821100000 -0500" stop="20230821121500 -0500" channel="Canal HBO Mundi">
+    <title lang="es">La Leyenda del Caballero Verde</title>
   </programme>
-  <programme start="20230816140000 -0500" stop="20230816155000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">Si te casas te mato</title>
+  <programme start="20230821121500 -0500" stop="20230821140000 -0500" channel="Canal HBO Mundi">
+    <title lang="es">Mío o de Nadie</title>
   </programme>
-  <programme start="20230816155000 -0500" stop="20230816173000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">Una singularidad desnuda</title>
+  <programme start="20230821140000 -0500" stop="20230821153000 -0500" channel="Canal HBO Mundi">
+    <title lang="es">Rompiendo todas las reglas</title>
   </programme>
-  <programme start="20230816173000 -0500" stop="20230816180000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">How To With John Wilson</title>
+  <programme start="20230821153000 -0500" stop="20230821173000 -0500" channel="Canal HBO Mundi">
+    <title lang="es">La cordillera</title>
   </programme>
-  <programme start="20230816180000 -0500" stop="20230816202000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">Shazam 2: La furia de los dioses</title>
+  <programme start="20230821173000 -0500" stop="20230821191500 -0500" channel="Canal HBO Mundi">
+    <title lang="es">Presidentes</title>
   </programme>
-  <programme start="20230816202000 -0500" stop="20230816211000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">La narcosatánica</title>
+  <programme start="20230821191500 -0500" stop="20230821220000 -0500" channel="Canal HBO Mundi">
+    <title lang="es">Por quién doblan las campanas</title>
   </programme>
-  <programme start="20230816211000 -0500" stop="20230816230500 -0500" channel="Canal HBO Oeste">
-    <title lang="es">Rampage: Devastación</title>
+  <programme start="20230821220000 -0500" stop="20230821235000 -0500" channel="Canal HBO Mundi">
+    <title lang="es">Intriga en Berlín</title>
   </programme>
-  <programme start="20230816230500 -0500" stop="20230817000000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">El jardin de bronce</title>
-  </programme>
-  <programme start="20230817000000 -0500" stop="20230817020000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">El espía inglés</title>
+  <programme start="20230821235000 -0500" stop="20230822014000 -0500" channel="Canal HBO Mundi">
+    <title lang="es">Psicosis</title>
   </programme>
   <programme start="20230817020000 -0500" stop="20230817040000 -0500" channel="Canal HBO Oeste">
     <title lang="es">Magic Mike El último baile</title>
   </programme>
   <programme start="20230817040000 -0500" stop="20230817060000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">No Sudden Move</title>
+    <title lang="es">Ni un paso en falso</title>
   </programme>
   <programme start="20230817060000 -0500" stop="20230817081500 -0500" channel="Canal HBO Oeste">
-    <title lang="es">Shazam 2: La furia de los dioses</title>
+    <title lang="es">¡Shazam! La Furia de los Dioses</title>
   </programme>
   <programme start="20230817081500 -0500" stop="20230817100000 -0500" channel="Canal HBO Oeste">
     <title lang="es">El Exorcista del Papa</title>
@@ -2046,7 +1980,7 @@
     <title lang="es">Godzilla</title>
   </programme>
   <programme start="20230817140000 -0500" stop="20230817150000 -0500" channel="Canal HBO Oeste">
-    <title lang="es">Jerrod Carmichael Rothaniel</title>
+    <title lang="es">Jerrod Carmichael: Rothaniel</title>
   </programme>
   <programme start="20230817150000 -0500" stop="20230817164000 -0500" channel="Canal HBO Oeste">
     <title lang="es">Llamas de venganza</title>
@@ -2182,5 +2116,56 @@
   </programme>
   <programme start="20230820230000 -0500" stop="20230821010000 -0500" channel="Canal HBO Oeste">
     <title lang="es">Magic Mike El último baile</title>
+  </programme>
+  <programme start="20230821010000 -0500" stop="20230821031000 -0500" channel="Canal HBO Oeste">
+    <title lang="es">Black Adam</title>
+  </programme>
+  <programme start="20230821031000 -0500" stop="20230821050000 -0500" channel="Canal HBO Oeste">
+    <title lang="es">El gato con botas: El último deseo</title>
+  </programme>
+  <programme start="20230821050000 -0500" stop="20230821060000 -0500" channel="Canal HBO Oeste">
+    <title lang="es">Winning Time: The Rise of the Lakers Dynasty</title>
+  </programme>
+  <programme start="20230821060000 -0500" stop="20230821070500 -0500" channel="Canal HBO Oeste">
+    <title lang="es">El jardin de bronce</title>
+  </programme>
+  <programme start="20230821070500 -0500" stop="20230821080500 -0500" channel="Canal HBO Oeste">
+    <title lang="es">Winning Time: The Rise of the Lakers Dynasty</title>
+  </programme>
+  <programme start="20230821080500 -0500" stop="20230821091000 -0500" channel="Canal HBO Oeste">
+    <title lang="es">El jardin de bronce</title>
+  </programme>
+  <programme start="20230821091000 -0500" stop="20230821104000 -0500" channel="Canal HBO Oeste">
+    <title lang="es">Cuarentena 2: Terminal</title>
+  </programme>
+  <programme start="20230821104000 -0500" stop="20230821120800 -0500" channel="Canal HBO Oeste">
+    <title lang="es">La Aparición</title>
+  </programme>
+  <programme start="20230821120800 -0500" stop="20230821140000 -0500" channel="Canal HBO Oeste">
+    <title lang="es">Un espía y medio</title>
+  </programme>
+  <programme start="20230821140000 -0500" stop="20230821151000 -0500" channel="Canal HBO Oeste">
+    <title lang="es">Marc Maron: De Mal en Peor</title>
+  </programme>
+  <programme start="20230821151000 -0500" stop="20230821170500 -0500" channel="Canal HBO Oeste">
+    <title lang="es">La supremacía Bourne</title>
+  </programme>
+  <programme start="20230821170500 -0500" stop="20230821180000 -0500" channel="Canal HBO Oeste">
+    <title lang="es">La narcosatánica</title>
+  </programme>
+  <programme start="20230821180000 -0500" stop="20230821184500 -0500" channel="Canal HBO Oeste">
+    <title lang="es">La narcosatánica</title>
+  </programme>
+  <programme start="20230821184500 -0500" stop="20230821193500 -0500" channel="Canal HBO Oeste">
+    <title lang="es">La narcosatánica</title>
+  </programme>
+  <programme start="20230821193500 -0500" stop="20230821214000 -0500" channel="Canal HBO Oeste">
+    <title lang="es">Crisis</title>
+  </programme>
+  <programme start="20230821214000 -0500" stop="20230821224000 -0500" channel="Canal HBO Oeste">
+    <title lang="es">Winning Time: The Rise of the Lakers Dynasty</title>
+  </programme>
+  <programme start="20230821224000 -0500" stop="20230822005500 -0500" channel="Canal HBO Oeste">
+    <title lang="es">Shazam 2: La furia de los dioses</title>
   </programme>
 </tv>
