@@ -7,20 +7,14 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321102.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321100.ts 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8zMKwk.png" group-title="Películas",AMC CRIME
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321101.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="Películas",AXN
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110145
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="Películas",AXN WHITE
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321115.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6CKqVTO.png" group-title="Películas" ,Calle 13 HD
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110148
 #EXTINF:-1,Canal Cocina
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/118537
 #EXTINF:-1 group-title="Películas",Canal Hollywood
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321266.ts
 ##EXTINF:-1 group-title="Películas",COMEDY CENTRAL
 http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110117
-#EXTINF:-1 group-title="Películas",COSMO
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110080
 #EXTINF:-1 group-title="Películas",DARK
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321152.ts
 #EXTINF:-1,Decasa
@@ -59,16 +53,12 @@ http://playhispano.org:8080/FRANKTV/tZRPR2js4F/90190
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321156.ts
 #EXTINF:-1,La Resistencia 24H
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321286.ts
-#EXTINF:-1,Mega
-http://playhispano.org:8080/FRANKTV/tZRPR2js4F/129525
 #EXTINF:-1 group-title="Películas",M+ Originales
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321068.ts
 #EXTINF:-1 group-title="Películas",M+ Acción
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321306.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="Películas",M+ Cine Español
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321312.ts
-#EXTINF:-1 group-title="Películas",M+ Clásicos
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110113
 #EXTINF:-1 group-title="Películas",M+ Comedia
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321318.ts
 #EXTINF:-1 group-title="Deportes",M+ Cracks
@@ -77,22 +67,14 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321318.ts
 
 #EXTINF:-1 group-title="Películas",M+ Drama
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321332.ts
-#EXTINF:-1,group-title="Películas",M+ Estrenos
+#EXTINF:-1 group-title="Películas",M+ 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321338.ts
-#EXTINF:-1,group-title="Películas",M+ Estrenos 2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110102
-#EXTINF:-1,M+ FEST
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321340.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="Deportes",M+ LaLiga TV2
 
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
 
-#EXTINF:-1 group-title="Películas",M+ Series
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110138
 #EXTINF:-1 group-title="Películas",M+ Suspense
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321346.ts
-#EXTINF:-1,M+ Vamos
-http://playhispano.org:8080/FRANKTV/tZRPR2js4F/70690
 #EXTINF:-1,Nat Geo Wild HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321371.ts
 #EXTINF:-1 group-title="Películas",NEOX
