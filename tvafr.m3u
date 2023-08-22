@@ -134,7 +134,7 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321443.ts
 #EXTINF:-1,XTRM
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321478.ts
 
-#EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-chno="201" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Películas Acción"  tvg-name=" Pluto TV Cine Acción",Pluto Cine Acción
+#EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Películas Acción"  tvg-name="Pluto TV Cine Acción",Pluto Cine Acción        
 https://i.mjh.nz/PlutoTV/5f1ac2591dd8880007bb7d6d-alt.m3u8
 #EXTINF:-1 channel-id="pluto-61373bb45168fe000773eecd" tvg-id="61373bb45168fe000773eecd" tvg-chno="210" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Películas" tvg-name=" Pluto TV Cine Clásico" ,Pluto Cine Clásico
 https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
