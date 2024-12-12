@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://localhost:34400/xmltv/threadfin.xml" x-tvg-url="http://localhost:34400/xmltv/threadfin.xml"
+#EXTINF:0 channelID="x-ID.1" tvg-chno="1001" tvg-name="2. M. Liga de Campeones [ sport ] 2024-12-12 19:42:02 a=0.9981785063752276 b=895306" tvg-id="1001" tvg-logo="" group-title="",2. M. Liga de Campeones [ sport ] 2024-12-12 19:42:02 a=0.9981785063752276 b=895306
+http://localhost:34400/stream/9f68a4997e50f093793a85fec893b20f
